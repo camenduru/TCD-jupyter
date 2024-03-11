@@ -21,4 +21,4 @@ https://mhh0318.github.io/tcd/
 ![Screenshot 2024-03-05 200623](https://github.com/camenduru/TCD-jupyter/assets/54370274/f6c3bc62-20d5-46f5-a1ad-03d7e993187b)
 
 ### 🏢 Sponsor
-https://modelslab.com
+https://replicate.com
